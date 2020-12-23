@@ -1,10 +1,20 @@
 /*
-Se trata de realizar un programa que muestre por pantalla la hoja de calendario de cualquier mes y año comprendido entre los años 1601 y 3000. 
-La hoja debe quedar ajustada a la izquierda de la pantalla y se deben emplear los caracteres ‘=’, ‘|’, ‘.’ y debe haber una línea en blanco 
-antes de escribir la hoja del calendario.
 
-El programa no deberá imprimir nada para los años fuera del rango de 1601 al 3000.
-El programa debe pedir el mes y el año sólo una vez para cada ejecución.
+Consiste en realizar un programa que imprima por pantalla rombos concéntricos dibujados con los caracteres ‘@’, ‘o’ y ‘.’.
+
+El programa solicitará, como dato de entrada, la longitud del lado del rombo más externo (es decir, su número de caracteres). 
+De fuera hacia dentro, el primer rombo estará formado por caracteres ‘@’, el segundo por caracteres ‘.’, el tercero por 
+caracteres ‘o’, el cuarto nuevamente por caracteres ‘.’, el quinto por caracteres ‘@’, el sexto también por caracteres ‘.’, 
+el séptimo por caracteres ‘o’ y así sucesivamente.
+
+El rombo siempre debe quedar ajustado a la izquierda de la pantalla y estar separado con una línea en blanco después de la 
+pregunta ¿Lado del Rombo?.
+
+El tamaño del rombo más grande será de 20 caracteres de lado. El programa no deberá imprimir nada para tamaños cero o negativo, 
+ni para tamaños superiores a 20.
+
+El programa debe pedir ¿Lado del Rombo? sólo una vez para cada ejecución.
+
 */
 
 
