@@ -1,3 +1,13 @@
+/*
+Se trata de realizar un programa que muestre por pantalla la hoja de calendario de cualquier mes y año comprendido entre los años 1601 y 3000. 
+La hoja debe quedar ajustada a la izquierda de la pantalla y se deben emplear los caracteres ‘=’, ‘|’, ‘.’ y debe haber una línea en blanco 
+antes de escribir la hoja del calendario.
+
+El programa no deberá imprimir nada para los años fuera del rango de 1601 al 3000.
+El programa debe pedir el mes y el año sólo una vez para cada ejecución.
+*/
+
+
 #include <stdio.h>
 
 int main () {
