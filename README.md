@@ -1,6 +1,6 @@
 # Fundamentos-de-Programacion-UNED
 
-Repositorio para los trabajos solicitados por la UNED en la asignatura "Fundamentos de Programación" para el año 2020. Se recojen 4 actividades (3 subidas por ahora):
+Repositorio para los trabajos solicitados por la UNED en la asignatura "Fundamentos de Programación" para el año 2020. Se recojen 4 actividades (2 subidas por ahora):
 
   1. Crear rombos concentricos dibujados con los caracteres ‘@’, ‘o’ y ‘.’ con dimensiones entre 1 y 20, ambos inclusives.
   2. Calendario (gregoriano) con días del mes para cualquier mes y año comprendido entre los años 1601 y 3000, ambos inclusives, comenzando la semana en lunes.
@@ -11,7 +11,7 @@ Repositorio para los trabajos solicitados por la UNED en la asignatura "Fundamen
 
 Explicaciones más detalladas en la actividad.
 
-Repository for tasks requested in subject "Programming Fundamentals" by UNED. There are 4 tasks (3 uploaded by now):
+Repository for tasks requested in subject "Programming Fundamentals" by UNED. There are 4 tasks (2 uploaded by now):
   
   1. Create concentric diamond shapes using the following chars: ‘@’, ‘o’ and ‘.’ and the possible side length should be between 1 and 20, both included.
   2. Gregorian calendar with days of any month and year between 1601 and 3000, both included. The week must start on Monday.
